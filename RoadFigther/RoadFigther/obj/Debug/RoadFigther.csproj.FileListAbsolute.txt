@@ -1,1 +1,6 @@
 C:\Users\SergiDAM\Documents\PortatilSergi\GitRoadFighter\RoadFighter\RoadFigther\RoadFigther\bin\Debug\RoadFigther.exe.config
+C:\Users\SergiDAM\Documents\PortatilSergi\GitRoadFighter\RoadFighter\RoadFigther\RoadFigther\bin\Debug\RoadFigther.exe
+C:\Users\SergiDAM\Documents\PortatilSergi\GitRoadFighter\RoadFighter\RoadFigther\RoadFigther\bin\Debug\RoadFigther.pdb
+C:\Users\SergiDAM\Documents\PortatilSergi\GitRoadFighter\RoadFighter\RoadFigther\RoadFigther\obj\Debug\RoadFigther.csprojResolveAssemblyReference.cache
+C:\Users\SergiDAM\Documents\PortatilSergi\GitRoadFighter\RoadFighter\RoadFigther\RoadFigther\obj\Debug\RoadFigther.exe
+C:\Users\SergiDAM\Documents\PortatilSergi\GitRoadFighter\RoadFighter\RoadFigther\RoadFigther\obj\Debug\RoadFigther.pdb

@@ -10,3 +10,7 @@ C:\Users\Informatica\CFGS2\M05 - Entorns de desenvolupament\UF3\Pràctica 2 - Jo
 C:\Users\Informatica\CFGS2\M05 - Entorns de desenvolupament\UF3\Pràctica 2 - Joc\Pràctica\PracticaM05\RoadFigther\RoadFigther\obj\Debug\RoadFigther.csprojResolveAssemblyReference.cache
 C:\Users\Informatica\CFGS2\M05 - Entorns de desenvolupament\UF3\Pràctica 2 - Joc\Pràctica\PracticaM05\RoadFigther\RoadFigther\obj\Debug\RoadFigther.exe
 C:\Users\Informatica\CFGS2\M05 - Entorns de desenvolupament\UF3\Pràctica 2 - Joc\Pràctica\PracticaM05\RoadFigther\RoadFigther\obj\Debug\RoadFigther.pdb
+C:\Users\Informatica\CFGS2\M05 - Entorns de desenvolupament\UF3\Pràctica 2 - Joc\Pràctica\PracticaM05\RoadFigther\RoadFigther\bin\Debug\SdlDotNet.dll
+C:\Users\Informatica\CFGS2\M05 - Entorns de desenvolupament\UF3\Pràctica 2 - Joc\Pràctica\PracticaM05\RoadFigther\RoadFigther\bin\Debug\Tao.Sdl.dll
+C:\Users\Informatica\CFGS2\M05 - Entorns de desenvolupament\UF3\Pràctica 2 - Joc\Pràctica\PracticaM05\RoadFigther\RoadFigther\bin\Debug\SdlDotNet.xml
+C:\Users\Informatica\CFGS2\M05 - Entorns de desenvolupament\UF3\Pràctica 2 - Joc\Pràctica\PracticaM05\RoadFigther\RoadFigther\bin\Debug\Tao.Sdl.xml

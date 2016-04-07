@@ -10,10 +10,10 @@ namespace RoadFigther
     {
         static void Main(string[] args)
         {
-            String city;
-            city = "a";
-            Console.WriteLine("Hello I'm in {0}!! GO SEAHAWKS!!!", city);
-            Console.WriteLine("DONE");
+            string dllDirectory = @"C:\sdldotnet\lib\"; // Serveix per dir-li on estan les llibreries
+            Environment.SetEnvironmentVariable("PATH", Environment.GetEnvironmentVariable("PATH") + ";" + dllDirectory);
+
+            Game g = new Game();
         }
     }
 }

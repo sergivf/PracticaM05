@@ -33,16 +33,24 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="SdlDotNet">
+      <HintPath>..\..\..\..\..\..\..\..\..\..\sdldotnet\bin\SdlDotNet.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml" />
+    <Reference Include="Tao.Sdl">
+      <HintPath>..\..\..\..\..\..\..\..\..\..\sdldotnet\bin\Tao.Sdl.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Game.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -50,7 +58,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Imatges\maxresdefault.jpg" />
+    <Content Include="Imatges\fonsBO.jpg" />
+    <Content Include="Imatges\fonsRepe.jpg" />
+    <Content Include="Imatges\Jugador.png" />
     <Content Include="Imatges\roadFigtherSprites.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -4,3 +4,9 @@ C:\Users\SergiDAM\Documents\PortatilSergi\GitRoadFighter\RoadFighter\RoadFigther
 C:\Users\SergiDAM\Documents\PortatilSergi\GitRoadFighter\RoadFighter\RoadFigther\RoadFigther\obj\Debug\RoadFigther.csprojResolveAssemblyReference.cache
 C:\Users\SergiDAM\Documents\PortatilSergi\GitRoadFighter\RoadFighter\RoadFigther\RoadFigther\obj\Debug\RoadFigther.exe
 C:\Users\SergiDAM\Documents\PortatilSergi\GitRoadFighter\RoadFighter\RoadFigther\RoadFigther\obj\Debug\RoadFigther.pdb
+C:\Users\Informatica\CFGS2\M05 - Entorns de desenvolupament\UF3\Pràctica 2 - Joc\Pràctica\PracticaM05\RoadFigther\RoadFigther\bin\Debug\RoadFigther.exe.config
+C:\Users\Informatica\CFGS2\M05 - Entorns de desenvolupament\UF3\Pràctica 2 - Joc\Pràctica\PracticaM05\RoadFigther\RoadFigther\bin\Debug\RoadFigther.exe
+C:\Users\Informatica\CFGS2\M05 - Entorns de desenvolupament\UF3\Pràctica 2 - Joc\Pràctica\PracticaM05\RoadFigther\RoadFigther\bin\Debug\RoadFigther.pdb
+C:\Users\Informatica\CFGS2\M05 - Entorns de desenvolupament\UF3\Pràctica 2 - Joc\Pràctica\PracticaM05\RoadFigther\RoadFigther\obj\Debug\RoadFigther.csprojResolveAssemblyReference.cache
+C:\Users\Informatica\CFGS2\M05 - Entorns de desenvolupament\UF3\Pràctica 2 - Joc\Pràctica\PracticaM05\RoadFigther\RoadFigther\obj\Debug\RoadFigther.exe
+C:\Users\Informatica\CFGS2\M05 - Entorns de desenvolupament\UF3\Pràctica 2 - Joc\Pràctica\PracticaM05\RoadFigther\RoadFigther\obj\Debug\RoadFigther.pdb

@@ -11,8 +11,9 @@ namespace RoadFigther
         static void Main(string[] args)
         {
             String city;
-            city = "Seattle";
+            city = "Texas";
             Console.WriteLine("Hello I'm in {0}!! GO SEAHAWKS!!!", city);
+            Console.WriteLine("DONE");
         }
     }
 }

@@ -14,6 +14,7 @@ namespace RoadFigther
             Environment.SetEnvironmentVariable("PATH", Environment.GetEnvironmentVariable("PATH") + ";" + dllDirectory);
 
             Game g = new Game();
+            Console.WriteLine("El MAC Xuta!!");
         }
     }
 }
